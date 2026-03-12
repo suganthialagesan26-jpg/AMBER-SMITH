@@ -1,1 +1,12 @@
-
+.hero {
+  background-color: #f2efe9;
+  padding: 80px 20px;
+  text-align: center;
+  border: 1px solid #d4cdc3; /* For that framed look */
+}
+.btn {
+  background-color: #dcb38c; /* Peach/Tan color */
+  color: white;
+  padding: 10px 30px;
+  text-decoration: none;
+}
